@@ -8,7 +8,27 @@ export default function App() {
       <footer>
         <p>
           Created by
-          <a href="https://github.com/MalaysiaThomas"> Malaysia Thomas</a> and is open-sourced on <a href="https://github.com/MalaysiaThomas/react-weather-app">GitHub</a>. Hosted on <a href="https://react-weather-app-aeris.netlify.app/">Netlify</a>.
+          <a href="https://github.com/MalaysiaThomas" target="_blank"
+            rel="noopener noreferrer">
+            {" "}
+            Malaysia Thomas
+          </a>{" "}
+          and is open-sourced on{" "}
+          <a
+            href="https://github.com/MalaysiaThomas/react-weather-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
+          . Hosted on{" "}
+          <a
+            href="https://react-weather-app-aeris.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Netlify
+          </a>
+          .
         </p>
       </footer>
     </div>
